@@ -19,7 +19,7 @@ import argparse
 
 
 class Exploit(object):
-    username = ''
+    username = 'deploy'
     size = 0
     data = ''
 
